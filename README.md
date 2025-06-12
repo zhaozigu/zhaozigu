@@ -4,7 +4,9 @@
 
 💻 **Aspiring full-stack engineer** (work in progress!)
 
-🔧 **Proficient in:** C/C++, Rust, Python, Go
+🔧 **Currently coding in:** C/C++, Rust, Python, Go
+
+🐳 Containerization: Docker (daily driver for development!)
 
 🐘 **Database of choice:** PostgreSQL (because elephants never forget!)
 
