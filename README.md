@@ -1,18 +1,18 @@
 # Welcome to my digital playground! 🌟
 
-- 🚀 **A young developer passionate about computer science & technology**
+🚀 **A young developer passionate about computer science & technology**
 
-- 💻 **Aspiring full-stack engineer** (work in progress!)
+💻 **Aspiring full-stack engineer** (work in progress!)
 
-- 🔧 **Proficient in:** C/C++, Rust, Python, Go
+🔧 **Proficient in:** C/C++, Rust, Python, Go
 
-- 🐘 **Database of choice:** PostgreSQL (because elephants never forget!)
+🐘 **Database of choice:** PostgreSQL (because elephants never forget!)
 
-- 🎨 **Can dabble in frontend:** React, Astro (just a little bit!)
+🎨 **Can dabble in frontend:** React, Astro (just a little bit!)
 
-- ⚡ **My obvious flaw:** Too many ideas, not enough energy to finish them all
+⚡ **My obvious flaw:** Too many ideas, not enough energy to finish them all
 
-- 🎭 **Part-time dreamer** (not quite qualified as a literary soul yet)
+🎭 **Part-time dreamer** (not quite qualified as a literary soul yet)
 
 ---
 
