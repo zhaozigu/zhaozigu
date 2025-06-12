@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to my digital playground! 🌟
 
-<!--
-**zhaozigu/zhaozigu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 **A young developer passionate about computer science & technology**
 
-Here are some ideas to get you started:
+- 💻 **Aspiring full-stack engineer** (work in progress!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 **Proficient in:** C/C++, Rust, Python, Go
+
+- 🐘 **Database of choice:** PostgreSQL (because elephants never forget!)
+
+- 🎨 **Can dabble in frontend:** React, Astro (just a little bit!)
+
+- ⚡ **My obvious flaw:** Too many ideas, not enough energy to finish them all
+
+- 🎭 **Part-time dreamer** (not quite qualified as a literary soul yet)
+
+---
+
+_Always learning, always building, always procrastinating_ ✨
